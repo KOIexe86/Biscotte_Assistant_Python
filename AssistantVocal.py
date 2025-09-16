@@ -94,7 +94,6 @@ list_commande = ["stop", "ouvre", "lance", "non"]
 
 dic_programme = {
     "VLC": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
-    "discorde": "C:\\Users\\lakom\\AppData\\Local\\Discord\\Update.exe",
     "fichier": "C:\\Windows\\explorer.exe",
     "wes code": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
     "weiss mode": "C:\\Program Files\\Voicemod V3\\Voicemod.exe",
@@ -275,3 +274,4 @@ with sd.RawInputStream(samplerate=SAMPLE_RATE, blocksize=8000, dtype="int16", ch
     except KeyboardInterrupt:
         # Si L'utilisateur fait Ctrl + C
         print("Fin du programme demandée par l'utilisateur")
+
