@@ -10,12 +10,12 @@ Un assistant vocal simple en **Python** utilisant :
 ## 📂 Structure du projet
 
 AssistantVocal/
-  ├── vosk-model-small-fr-0.22/ # Modèle Vosk pour la reconnaissance vocale (FR)
-  ├── AssistantVocal.py # Script principal
-  ├── requirements.txt # Dépendances Python
-  ├── start.bat # Script de lancement Windows
-  ├── README.md # Documentation
-  ├── Oui.mp3 # Sons utilisés par l'assistant
+  ├── vosk-model-small-fr-0.22/
+  ├── AssistantVocal.py
+  ├── requirements.txt
+  ├── Start.bat
+  ├── README.md
+  ├── Oui.mp3
   ├── Bonjour.mp3
   ├── Pas_compris.mp3
   └── Au_revoir.mp3
@@ -80,3 +80,4 @@ Les sites et programmes sont configurables dans le fichier AssistantVocal.py.
 👨‍💻 Auteur : KOIexe
 
 📅 Date : 15/09/2025
+
