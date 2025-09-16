@@ -13,7 +13,7 @@ AssistantVocal/
   ├── AssistantVocal.py\
   ├── requirements.txt\
   ├── Start.bat\
-  ├── README.md\ 
+  ├── README.md\
   ├── Oui.mp3\
   ├── Bonjour.mp3\
   ├── Pas_compris.mp3\
@@ -88,5 +88,6 @@ Les sites et programmes sont configurables dans le fichier AssistantVocal.py.
 
 👨‍💻 Auteur : KOIexe
 📅 Date : 15/09/2025
+
 
 
